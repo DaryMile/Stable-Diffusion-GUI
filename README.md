@@ -7,5 +7,5 @@ simple GUI with Stable Diffusion model
   - PyQT5
 
 ## How it looks:
-![Img](https://github.com/DaryMile/Stable-Diffusion-GUI/main/images/window.png)
+![Img](images/window.png)
 
